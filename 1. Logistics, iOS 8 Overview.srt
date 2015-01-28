@@ -51,7 +51,7 @@ Brief mention of the prerequisites cuz they're pretty important in this class.
 11
 00:00:42,070 --> 00:00:44,870
 Then just the [NOISE] quickest overview of iOS.
-然后会对IOS进行快速的预览。
+然后会对 iOS 进行快速的预览。
 
 12
 00:00:44,872 --> 00:00:49,508
@@ -76,7 +76,7 @@ introduce you to Xcode and the development environment and
 16
 00:00:57,383 --> 00:01:01,818
 this language Swift, that you're gonna have to learn to develop for iOS.
-和Swift语言，同学们将学会用这些工具来为IOS做开发。
+和Swift语言，同学们将学会用这些工具来为 iOS 做开发。
 
 17
 00:01:02,854 --> 00:01:04,120
@@ -91,7 +91,7 @@ It's about building cool apps, as we know.
 19
 00:01:06,457 --> 00:01:09,091
 Why are these iOS apps so cool?
-为什么这些IOS应用如此之酷？
+为什么这些 iOS 应用如此之酷？
 
 20
 00:01:09,093 --> 00:01:11,960
@@ -225,8 +225,8 @@ everything about Object-Oriented Programming.
 
 46
 00:02:22,190 --> 00:02:24,456
-IOS is a completely Object-Oriented Programming envir,
-IOS是一个完全的面向对象编程的环...
+ iOS  is a completely Object-Oriented Programming envir,
+ iOS 是一个完全的面向对象编程的环...
 
 47
 00:02:24,458 --> 00:02:26,658
@@ -256,7 +256,7 @@ stuff like that then you're just really gonna be behind the curve.
 52
 00:02:37,937 --> 00:02:42,239
 In iOS so at Stanford here that means CS16A and B or
-斯坦福的IOS相关课程有CS16A，CA16B或者
+斯坦福的 iOS 相关课程有CS16A，CA16B或者
 
 53
 00:02:42,241 --> 00:02:47,344
@@ -326,7 +326,7 @@ writing big programs then this class will definitely be a challenge for you.
 66
 00:03:27,848 --> 00:03:30,682
 okay, so what's in iOS, what are the parts of it?
-那么，IOS中有什么？都包括哪些部分呢？
+那么， iOS 中有什么？都包括哪些部分呢？
 
 67
 00:03:30,684 --> 00:03:34,085
@@ -371,7 +371,7 @@ So at the bottom, so
 75
 00:03:52,285 --> 00:03:55,603
 a lot of people don't realize that iOS is basically a Unix-based operating system.
-很多人没有意识到，IOS基本就是一个基于Unix的操作系统。
+很多人没有意识到， iOS 基本就是一个基于Unix的操作系统。
 
 76
 00:03:55,605 --> 00:03:57,772
@@ -621,7 +621,7 @@ OK？
 125
 00:06:31,309 --> 00:06:32,809
 With the tools we use to build these iOS apps.
-我们会用这些工具来创建IOS应用。
+我们会用这些工具来创建 iOS 应用。
 
 126
 00:06:32,811 --> 00:06:34,978
@@ -671,7 +671,7 @@ a terminal typing in Emacs or something, you're gonna be in Xcode 6.
 135
 00:07:04,339 --> 00:07:08,874
 Languages I have there's actually, two languages in iOS now.
-现在为IOS开发应用可以使用两种语言。
+现在为 iOS 开发应用可以使用两种语言。
 
 136
 00:07:08,876 --> 00:07:12,044
@@ -686,7 +686,7 @@ One of them is called Objective-C,
 138
 00:07:14,081 --> 00:07:17,715
 that's the language that iOS was originally developed for.
-它也是IOS一直以来使用的开发语言。
+它也是 iOS 一直以来使用的开发语言。
 
 139
 00:07:17,717 --> 00:07:22,553
@@ -710,7 +710,7 @@ And so Apple last summer introduced a completely new language called Swift, and
 
 143
 00:07:36,967 --> 00:07:40,669
-Swift, you can do pretty much everything in iOS with Swift and/nSwift，你可以使用Swift在IOS上开发任何应用，
+Swift, you can do pretty much everything in iOS with Swift and/nSwift，你可以使用Swift在 iOS 上开发任何应用，
 
 144
 00:07:40,671 --> 00:07:45,172
@@ -780,7 +780,7 @@ a [INAUDIBLE] course [INAUDIBLE] [COUGH] [INAUDIBLE] doing iOS development.
 157
 00:08:26,277 --> 00:08:29,244
 iOS development in the real world for real companies.
-并想找一份做IOS开发的工作，
+并想找一份做 iOS 开发的工作，
 
 158
 00:08:29,246 --> 00:08:30,912
@@ -805,7 +805,7 @@ But as the time goes by probably, more and more people switch to siff, Swift.
 162
 00:08:39,922 --> 00:08:43,490
 >> [COUGH] >> The good thing is the underlying iOS
-好消息就是基础的IOS
+好消息就是基础的 iOS 
 
 163
 00:08:43,492 --> 00:08:45,926
@@ -869,7 +869,7 @@ All right.
 175
 00:09:11,817 --> 00:09:14,617
 Of course iOS is filled with tons of frameworks.
-当然，IOS内部拥有成吨的框架，
+当然， iOS 内部拥有成吨的框架，
 
 176
 00:09:14,619 --> 00:09:18,320
@@ -974,12 +974,12 @@ debuggable, reusable understandable to you and to anyone reading your code.
 196
 00:10:21,143 --> 00:10:25,278
 And iOS was designed with MVC from the start.
-而IOS从一开始就使用MVC设计。
+而 iOS 从一开始就使用MVC设计。
 
 197
 00:10:25,280 --> 00:10:28,214
 So it's just integral part to building an iOS.
-而这仅仅是创建一个IOS应用整体中的一部分。
+而这仅仅是创建一个 iOS 应用整体中的一部分。
 
 198
 00:10:28,216 --> 00:10:33,452
@@ -1322,7 +1322,7 @@ all that stuff.
 266
 00:13:38,495 --> 00:13:41,079
 But we're always gonna be building iOS Applications.
-但是我们经常创建的是IOS，应用。
+但是我们经常创建的是 iOS ，应用。
 
 267
 00:13:41,082 --> 00:13:43,382
@@ -2518,7 +2518,7 @@ It's square.
 
 505
 00:25:38,375 --> 00:25:40,908
-Okay, no IOS device is square.
+Okay, no  iOS  device is square.
 不过没有任何iOS设备是正方形的
 
 506
